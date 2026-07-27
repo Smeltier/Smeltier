@@ -1,60 +1,18 @@
+# Hello, my name is Gabriel!
+
+I'm an undergraduate student in Computer Engineering. Learning to build real-world systems with strong fundamentals.
+
+<details>
+<summary> More stuff about me </summary>
+
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="360">
+### GitHub stats 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Smeltier&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>
 
-```
-##################################################
-###########################+-----++###############
-#######################+----------..--############
-##################+----..--............-##########
-#################-...............-----.-+#########
-################+...-++###########--.....+########
-################..+################-......+#######
-###############+.+################+-.......#######
-################+################+++--.....#######
-#########################+++++++++++----..-#######
-################+---+##+-..-----+++++++---+#######
-#################++++##+++#----+++++++++++-+######
-#################################++++++-++++######
-################################+++++++++++#######
-###################++---+#+####++++++++++#########
-###########################++++++++++++###########
-##################+++------++++++++++-+##########+
-####################+---+++++++++++---+###########
-##########################++---+------+-+#########
-###################+#+++++-------.--+++--+########
-####################+---........--++++-------+++++
-#################++++++#+--..---+++#+--.----------
-############+++-++++-+#+++++-++++###------.--.----
-#######+++++++++++++--####+#######+--------.--.---
-###+-++++-----++++++--###+--#######-----------.---
-###+-+++------++++++-+###-..-####------------.----
-##+---+----+++++++++-++#.-.##+#+++---------.------
-+-----+---+++++++++--.+--..#####+-----------------
-++----+---+++++++++--+#.....####-------------.----
---+--+---+-++++++++---#.....-##-------------.----.
-+----++-++-++++++++-.--.....-#-------------.------
-+--.-+++---+++++++--....--..--------------.-------
-+--.-+++-++++++++---..........-------------------.
-+--.--+++++-++++++--.........--------------------.
----.-----++--++++---.........---------.---------..
---..-----++----++---........--++-++--------------.
-```
-
-</td>
-<td valign="top">
-
-## About Me
-
-Computer Engineering student at **CEFET-MG** (Leopoldina campus).
-
-Currently engaged in Undergraduate Research focusing on **Artificial Intelligence** and **Digital Game Development**, with implementations in Python, exploring both theoretical and practical aspects.
-
-I am open to new opportunities and collaborations that foster professional growth and create a real impact in the computing field.
-
-## Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -72,15 +30,13 @@ I am open to new opportunities and collaborations that foster professional growt
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python&color=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 
 ## Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gabrielgoncalvescastro/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@gabrielsmeltier)
 
-</td>
-</tr>
-</table>
-
 </div>
+  
+</details>
